@@ -63,7 +63,7 @@ def get_financials_from_tmdb(movie_name, year, api_key):
 
 # %%
 # API Configuration
-API_KEY = "d248be4441e6855f96c5ae2cb105d4db"  # Your TMDb API key
+API_KEY = "insert your tmdb api key"  
 output_file = 'movies_with_api_financials.csv'
 
 # %%
